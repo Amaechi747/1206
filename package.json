@@ -1,0 +1,18 @@
+{
+  "name": "1206",
+  "version": "1.0.0",
+  "description": "Dynamic Organisation Management System(DOMS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "management",
+    "company",
+    "'company",
+    "management",
+    "system'"
+  ],
+  "author": "Odedina Adewunmi, Amaechi Moses Ikenna",
+  "license": "ISC"
+}
